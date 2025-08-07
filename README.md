@@ -2,7 +2,6 @@
 
 A collection of exploratory data analysis (EDA) projects using real-world datasets. Each project focuses on uncovering patterns, visualizing data, and extracting insights using Python.
 
----
 
 ##  About
 
