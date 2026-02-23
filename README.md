@@ -86,4 +86,4 @@ Built using **Python, Pandas, Matplotlib, Seaborn**, and **Jupyter Notebooks**.
 **Vaibhav Singh** - Getting hands on Data Analytics and Machine Learning!
 
 Connect with me to explore the world together:
-🚀 [LinkedIn](https://www.linkedin.com/in/vbv-singh2005/)
+
